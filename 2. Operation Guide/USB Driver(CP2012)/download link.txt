@@ -1,0 +1,1 @@
+https://www.silabs.com/interface/usb-bridges/classic/device.cp2102
