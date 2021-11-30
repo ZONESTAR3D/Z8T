@@ -1,5 +1,5 @@
 # Z8T Documents
-***ATTETION: We have released a new firmware for Z8T, please download it and upload to your printer, please refer to [6. Firmware](firmware)***     
+***ATTETION: We have released a new firmware for Z8T, please download it and upload to your printer, please refer to "6. Firmware"***     
 ## 0. Readme First
 - **Packing list.jpg** Parts list of the Z8T 3D printer DIY kit    
 - **Readme First.pdf** Installation and use process of 3D printer DIY Kit  
@@ -32,7 +32,6 @@ This directory inlcuded some gcode file for testing.
 This directory inlcuded some TroubleShootings file
 ## 5. Print Parts
 This directory inlcuded the print parts for Z8T
-[firmware]:  
 ## 6. Firmware 
 - [**Firmware hex file**](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8T)  
 - [**Firmware Upload tool (for windows)**](https://github.com/ZONESTAR3D/Firmware/tree/master/Firmware%20Upload%20tools%20for%20ZRIB%20and%20ZMIB)   
