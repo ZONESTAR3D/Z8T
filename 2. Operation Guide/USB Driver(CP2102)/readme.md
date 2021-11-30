@@ -1,0 +1,2 @@
+Default Z8T used a ZRIB control board, it used a CP2102 USB-UART briges chip, Please download the USB driver from here:
+[**CP2012 USB Driver**](https://www.silabs.com/interface/usb-bridges/classic/device.cp2102)  

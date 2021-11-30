@@ -1,2 +1,0 @@
-please visit this URL:
-http://www.repetier.com/documentation/repetier-host/
