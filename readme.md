@@ -25,6 +25,7 @@
   - [**3D Touch bed leveling sensor**](https://www.aliexpress.com/item/1005001464420529.html)
   - [**Magnetic flexible hot bed sticker**](https://www.aliexpress.com/item/4000793898821.html)
   - [**4.3" TFT-LCD screen**](https://www.aliexpress.com/item/1005002378065646.html) 
+  - [**Z lead screw fix module**](https://www.aliexpress.com/item/1005002401708373.html) 
   - [**Upgrade parts combine**](https://www.aliexpress.com/item/1005002019863241.html)  
 ## 3. Test gcode
 This directory inlcuded some gcode file for testing.  
