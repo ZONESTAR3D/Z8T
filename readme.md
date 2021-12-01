@@ -6,10 +6,10 @@
 ## 1. User Guide
 - **Z8T User Guide-EN(FR/ES/PT/DE/RU).pdf**  Installation and quick user guide  
 - **LCD2864 Menu Description.pdf** Menu instruction of 128x64 LCD screen    
-- ***LCD-DWIN Menu Description.pdf*** MENU instruction of 4.3" TFT-LCD screen   
+- **LCD-DWIN Menu Description.pdf** MENU instruction of 4.3" TFT-LCD screen   
 **NOTE**: Default Z8T used a 128x64 LCD screen, if you want to upgrade to a TFT-LCD screen, please refer to this link: [**Z8T upgrade kit**](https://www.aliexpress.com/item/1005002019863241.html)   
 - **Z8T Wiring Diagram (ZRIBV6).jpg**  Wiring Diagram for Z8T  
-- **TITAN Installation Tutorial.mp4**  Video tutorial for assemble Titan extruder  
+- **TITAN installation tutorial.mp4**  Video tutorial for assemble TITAN extruder  
 ## 2. Operation Guide 
 - **Mix color HOTEND user guide- load and unload filament.pdf** Instrution for how to load and unload filament.  
 - **Operature guide for mixing color extruder.pdf**  Instrution for Operate the Mixing Color Extruder.   
@@ -34,11 +34,11 @@
   - [**3-IN-3-OUT hotend**](https://www.aliexpress.com/item/1005001275429959.html)          
   - [**Upgrade parts combine**](https://www.aliexpress.com/item/1005002019863241.html)  
 ## 3. Test gcode
-This directory inlcuded some gcode file for testing.  
+Inlcuded some gcode files for testing.  
 ## 4. TroubleShootings
-This directory inlcuded some TroubleShootings file
+Inlcuded some TroubleShootings files. 
 ## 5. Print Parts
-This directory inlcuded the print parts for Z8T
+Inlcuded the print parts stl fils for Z8T.
 ## 6. Firmware 
 - [**Firmware hex file**](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8T)  
 - [**Firmware Upload tool (for windows)**](https://github.com/ZONESTAR3D/Firmware/tree/master/Firmware%20Upload%20tools%20for%20ZRIB%20and%20ZMIB)   
