@@ -21,11 +21,11 @@
 [**CP2012 USB Driver**](https://www.silabs.com/interface/usb-bridges/classic/device.cp2102)   
 - **Upgrade features** You can upgrade some feature for Z8T, it include:
   - [**Filament run out detector(FROD)**](https://www.aliexpress.com/item/4001309957376.html)
-  - [**Silent motor driver: it can let**](https://www.aliexpress.com/item/4000596369015.html)
+  - [**Silent motor driver**](https://www.aliexpress.com/item/4000596369015.html)
   - [**3D Touch bed leveling sensor**](https://www.aliexpress.com/item/1005001464420529.html)
   - [**Magnetic flexible hot bed sticker**](https://www.aliexpress.com/item/4000793898821.html)
   - [**4.3" TFT-LCD screen**](https://www.aliexpress.com/item/1005002378065646.html) 
-  - [**Upgraded feature combine**](https://www.aliexpress.com/item/1005002019863241.html)  
+  - [**Upgrade parts combine**](https://www.aliexpress.com/item/1005002019863241.html)  
 ## 3. Test gcode
 This directory inlcuded some gcode file for testing.  
 ## 4. TroubleShootings
