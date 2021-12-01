@@ -20,12 +20,18 @@
 - **USB driver** Default Z8T used a ZRIB control board, it used a CP2102 USB-UART briges chip, Please download the USB driver from here:
 [**CP2012 USB Driver**](https://www.silabs.com/interface/usb-bridges/classic/device.cp2102)   
 - **Upgrade features** You can upgrade some feature for Z8T, it include:
-  - [**Filament run out detector(FROD)**](https://www.aliexpress.com/item/4001309957376.html)
-  - [**Silent motor driver**](https://www.aliexpress.com/item/4000596369015.html)
-  - [**3D Touch bed leveling sensor**](https://www.aliexpress.com/item/1005001464420529.html)
-  - [**Magnetic flexible hot bed sticker**](https://www.aliexpress.com/item/4000793898821.html)
+  - [**32 bits control board**](https://www.aliexpress.com/item/1005001300737027.html)    
   - [**4.3" TFT-LCD screen**](https://www.aliexpress.com/item/1005002378065646.html) 
+  - [**Silent motor driver**](https://www.aliexpress.com/item/4000596369015.html)
+  - [**Filament run out detector(FROD)**](https://www.aliexpress.com/item/4001309957376.html)
+  - [**3D Touch bed leveling sensor**](https://www.aliexpress.com/item/1005001464420529.html)
+  - [**Magnetic flexible hot bed sticker**](https://www.aliexpress.com/item/4000793898821.html)  
+  - [**Hotbed glass**](https://www.aliexpress.com/item/4001317243160.html)  
+  - [**Hotbed Nuts**](https://www.aliexpress.com/item/4000726717520.html)   
   - [**Z lead screw fix module**](https://www.aliexpress.com/item/1005002401708373.html) 
+  - [**New version 3-IN-1-OUT hotend**](https://www.aliexpress.com/item/1005001635908007.html)   
+  - [**3-IN-2-OUT hotend**](https://www.aliexpress.com/item/1005001275429959.html)
+  - [**3-IN-3-OUT hotend**](https://www.aliexpress.com/item/1005001275429959.html)          
   - [**Upgrade parts combine**](https://www.aliexpress.com/item/1005002019863241.html)  
 ## 3. Test gcode
 This directory inlcuded some gcode file for testing.  
