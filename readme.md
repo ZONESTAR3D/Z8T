@@ -1,5 +1,7 @@
 # Z8T Documents
-***ATTETION: We have released a new firmware for Z8T, please download it and upload to your printer, please refer to [here](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8T/ZRIBV6(default)/Firmware/V2.0.0/LCD12864)***     
+***ATTETION: We have released a new firmware for Z8T, please download it and upload to your printer, please refer to [here](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8T/ZRIBV6(default)/Firmware/V2.0.0/LCD12864)***
+### Download Z8T documents
+[**Download all the Z8T documents in one go**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ8T)     
 ## 0. Readme First
 - **Packing list.jpg** Parts list of the Z8T 3D printer DIY kit    
 - **Readme First.pdf** Installation and use process of 3D printer DIY Kit  
