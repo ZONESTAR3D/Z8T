@@ -13,10 +13,10 @@
 - **Z8T Wiring Diagram (ZRIBV6).jpg**  Wiring Diagram for Z8T  
 - **TITAN installation tutorial.mp4**  Video tutorial for assemble TITAN extruder  
 ## 2. Operation Guide 
-- **Mix color HOTEND user guide- load and unload filament.pdf** Instrution for how to load and unload filament.  
-- **Operature guide for mixing color extruder.pdf**  Instrution for Operate the Mixing Color Extruder.   
+- [**Mix color HOTEND user guide- load and unload filament.pdf**](https://github.com/ZONESTAR3D/Z8T/blob/main/2.%20Operation%20Guide/Mix%20Color%20HOTEND%20User%20Guide-%20load%20and%20unload%20filament.pdf) Instrution for how to load and unload filament.  
+- [**Operature guide for mixing color extruder.pdf**](https://github.com/ZONESTAR3D/Z8T/blob/main/2.%20Operation%20Guide/Operature%20guide%20for%20Mixing%20Color%20Extruder%20V1_3%20-EN.pdf)  Instrution for Operate the Mixing Color Extruder.   
 **!!ATETTION!!: Please read these two document if you want to print multi-color 3d prints.**  
-- **Bed auto leveling** This directory contains an instruction on how to do the auto leveling and a test gcode file.    
+- [**Bed auto leveling**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Bed%20Leveling%20Sensor) This directory has instructions on how to do the auto leveling and a leveling test gcode file.    
 - **Host software** This directory contains instructions on how to control the 3d printer from PC  
 - **Slicing** please click this link to read the newest [**slicing guide**](https://github.com/ZONESTAR3D/Slicing-Guide)  
 - **USB driver** Default Z8T used a ZRIB control board, it used a CP2102 USB-UART briges chip, Please download the USB driver from here:
@@ -37,7 +37,7 @@
   - [**3-IN-2-OUT hotend**](https://www.aliexpress.com/item/1005001275429959.html) > **make print different types of fialment and mixing feature together**  
   - [**3-IN-3-OUT hotend**](https://www.aliexpress.com/item/1005001275429959.html)  > **Support to print different filament**          
   - [**Upgrade parts combine**](https://www.aliexpress.com/item/1005002019863241.html)  > **Collection of most commonly used upgrade accessories**   
-#### User and Installation guide for upgrade features, please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide)  
+#### Use and installation guide for upgrade features, please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide)  
 - [**Bed Leveling Sensor**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Bed%20Leveling%20Sensor)
 	- [**PL-08N**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Bed%20Leveling%20Sensor/Proximity%20Sensor%20(PL-08N))
 	- [**ZLSensor**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Bed%20Leveling%20Sensor/ZL-Sensor)
