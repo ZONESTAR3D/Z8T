@@ -23,6 +23,7 @@
 [**CP2012 USB Driver**](https://www.silabs.com/interface/usb-bridges/classic/device.cp2102)   
 - **Upgrade features** You can upgrade some features for Z8T:
   - [**32 bits control board**](https://www.aliexpress.com/item/1005001300737027.html) > **Better performance**   
+  - [**3.5" TFT-LCD with Touch screen**](https://www.aliexpress.com/item/1005001314076252.html) > **Better UI - Suggest upgrade to 4.3" TFT-LCD screen**
   - [**4.3" TFT-LCD screen**](https://www.aliexpress.com/item/1005002378065646.html) > **Better UI and easy to use**
   - [**Silent motor driver**](https://www.aliexpress.com/item/4000596369015.html) > **To make the printer more silent and improve printing quality**
   - [**Filament run out detector(FROD)**](https://www.aliexpress.com/item/4001309957376.html)  > **To detect filament run out and pause print**
@@ -35,7 +36,27 @@
   - [**The 4th version 3-IN-1-OUT hotend**](https://www.aliexpress.com/item/1005001635908007.html) > **Improve to less string and not easy to be clogged**  
   - [**3-IN-2-OUT hotend**](https://www.aliexpress.com/item/1005001275429959.html) > **make print different types of fialment and mixing feature together**  
   - [**3-IN-3-OUT hotend**](https://www.aliexpress.com/item/1005001275429959.html)  > **Support to print different filament**          
-  - [**Upgrade parts combine**](https://www.aliexpress.com/item/1005002019863241.html)  > **Collection of most commonly used upgrade accessories**
+  - [**Upgrade parts combine**](https://www.aliexpress.com/item/1005002019863241.html)  > **Collection of most commonly used upgrade accessories**   
+#### User and Installation guide for upgrade features, please refer to [here](https://github.com/ZONESTAR3D/Upgrade-kit-guide)  
+- [**Bed Leveling Sensor**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Bed%20Leveling%20Sensor)
+	- [**PL-08N**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Bed%20Leveling%20Sensor/Proximity%20Sensor%20(PL-08N))
+	- [**ZLSensor**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Bed%20Leveling%20Sensor/ZL-Sensor)
+	- [**BLTouch**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Bed%20Leveling%20Sensor/BLtouch(3D%20Touch))
+- [**Direct Drive Extrruder**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Direct%20Drive%20Extrruder)
+- [**Filament run out sensor**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/FROD)
+- [**HOTEND**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND)
+	- [**M2 2_IN-1-OUT Mixing Color Hotend**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M2%202_IN-1-OUT%20Mixing%20Color%20Hotend)
+	- [**M2P1 3-IN-2-OUT Mixing Color Hotend**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M2P1%20%203-IN-2-OUT%20Mixing%20Color%20Hotend)
+	- [**R3 3-IN-3-OUT HOTEND**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/R3%203-IN-3-OUT%20HOTEND)
+	- [**M3 3-IN-1-OUT Mixing Color Hotend**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M3%20%203-IN-1-OUT%20Mixing%20Color%20Hotend)
+	- [**E4 4-IN-1-OUT Non-Mixing Color Hotend**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/E4%204-IN-1-OUT%20Non-Mixing%20Color%20Hotend)
+	- [**M4 4-IN-1-OUT Mixing Color Hotend**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4%20%204-IN-1-OUT%20Mixing%20Color%20Hotend)	
+- [**Laser Engraving Kits**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Laser%20Engraving)
+- [**Stepping motor drivers**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Motor%20Drive%20Module)
+- [**TFT-LCD screens**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD)
+	- [**3.5" TFT-LCD screen**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/TFTLCD35-MK)
+	- [**4.4" TFT-LCD screen**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN)  
+- [**WiFi wireless controller**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/WiFi)  
 ## 3. Test gcode
 Inlcuded some gcode files for testing.  
 ## 4. TroubleShootings
