@@ -28,7 +28,7 @@
   - [**Silent motor driver**](https://www.aliexpress.com/item/4000596369015.html) > **To make the printer more silent and improve printing quality**
   - [**Filament run out detector(FROD)**](https://www.aliexpress.com/item/4001309957376.html)  > **To detect filament run out and pause print**
   - [**3D Touch bed leveling sensor**](https://www.aliexpress.com/item/1005001464420529.html) > **Suit for all types hotbed.**
-  - [**ZLSensor bed leveling sensor**](https://www.aliexpress.com/item/1005002865311470.html) > **Suit for all types of hotbed and easy to wiring.**
+  - [**ZL-Sensor bed leveling sensor**](https://www.aliexpress.com/item/1005002865311470.html) > **Suit for all types of hotbed and easy to wiring.**
   - [**Hotbed Nuts**](https://www.aliexpress.com/item/4000726717520.html) > **Easy to adjust hot bed height** 
   - [**Magnetic flexible hot bed sticker**](https://www.aliexpress.com/item/4000793898821.html)  > **Pasted firmly and easy to take out**
   - [**Hotbed glass**](https://www.aliexpress.com/item/4001317243160.html) > **Print ABS required**       
