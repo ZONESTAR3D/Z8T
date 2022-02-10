@@ -23,7 +23,7 @@
 [**CP2012 USB Driver**](https://www.silabs.com/interface/usb-bridges/classic/device.cp2102)   
 - **Upgrade features** You can upgrade some features for Z8T:
   - [**32 bits control board**](https://www.aliexpress.com/item/1005001300737027.html) > **Better performance**   
-  - [**3.5" TFT-LCD with Touch screen**](https://www.aliexpress.com/item/1005001314076252.html) > **Better UI - Suggest upgrade to 4.3" TFT-LCD screen**
+  - [** ~~3.5" TFT-LCD with Touch screen~~ **](https://www.aliexpress.com/item/1005001314076252.html) > Better UI - **Suggest upgrade to 4.3" TFT-LCD screen**
   - [**4.3" TFT-LCD screen**](https://www.aliexpress.com/item/1005002378065646.html) > **Better UI and easy to use**
   - [**Silent motor driver**](https://www.aliexpress.com/item/4000596369015.html) > **To make the printer more silent and improve printing quality**
   - [**Filament run out detector(FROD)**](https://www.aliexpress.com/item/4001309957376.html)  > **To detect filament run out and pause print**
