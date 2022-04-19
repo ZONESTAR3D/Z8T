@@ -66,8 +66,14 @@ Inlcuded the print parts stl fils for Z8T.
 ## 6. Firmware 
 - [**Default firmware hex file**](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8T/ZRIBV6(default)/Firmware/V2.0.0/LCD12864)     
 - [**More Firmware hex file**](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8T)  
-- [**Firmware Upload tool (for windows)**](https://github.com/ZONESTAR3D/Firmware/tree/master/Firmware%20Upload%20tools%20for%20ZRIB%20and%20ZMIB)   
+- [**Firmware Upload tool (for windows)**](https://github.com/ZONESTAR3D/Firmware/tree/master/Firmware_Upload_tool_for_ZRIB_ZMIB)   
 **NOTE: if you use macos and linux, please upload firmware by Cura**   
 - [**Firmware sourc code**](https://github.com/ZONESTAR3D/source-code-for-3d-printer)
+
+## How to downlod files from Github page
+#### Step 1: Click this link [**https://downgit.github.io/**](https://downgit.github.io/) 
+#### Step 2: Copy the Github file or direcotry link which you want to download.
+#### Step 3: Click download button and wait a few seconds, it will start to download automatically. 
+![](https://github.com/ZONESTAR3D/Document-and-User-Guide/blob/master/download.gif)   
 
    
